@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DougNSantos
-- 👀 I’m interested in all types of technology, now focusing on Web Development!
-- 🌱 I’m currently learning HTML, CSS, JavaScript and when the times allows, I Study Java and Python!
+- 👀 I’m interested in all types of technology, now focusing on Java & Web Development!
+- 🌱 I’m currently learning Java, and when the times allows, I Study HTML, CSS and Javascript!
 - 💞️ I’m looking to collaborate in Amazing Projects and Learn from these Great Developers!!!
 
 <!---
