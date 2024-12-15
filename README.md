@@ -10,9 +10,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DougNSantos&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DougNSantos)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://github.com/user-attachments/assets/eb1226ac-cdab-458d-9dfb-17c5edbfc5e7" alt="GonfreecsGIF" width="120">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DougNSantos)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/eb1226ac-cdab-458d-9dfb-17c5edbfc5e7" alt="GonfreecsGIF" width="120">
 
 <br>
 
