@@ -1,9 +1,8 @@
 <h1> 👋 Hi, I’m Douglas! </h1>
 
 - 😎 I’m a brazilian student and like many types of technology!
-- 👾 I'm focusing on <strong>Java & C#</strong> doing projects with <strong>Unity</strong>, <br>
-  but I also like learning about <strong>Design, Digital Art, Web Dev, Game Dev</strong> and applying in some project using the Game Engine <strong>Unity</strong>. <br>
-  I'm learning <strong>Java</strong>, <strong>Python</strong> and <strong>SQL</strong> too!!!
+- 👾 I'm focusing on <strong>Java</strong> and <strong>C#</strong>, working on projects with <strong>Unity</strong>. <br>
+  I also enjoy learning about <em>design, digital art, web development, and game development</em> — and applying those skills to projects using the Unity game engine.
 - 👍 I’m looking to collaborate in Amazing Projects and Learn from these Great Developers!!!
 
 <br>
