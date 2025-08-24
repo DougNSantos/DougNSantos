@@ -12,6 +12,7 @@
   
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" height="45px" weight="45px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="45px" weight="45px">
+  <img src="https://raw.githubusercontent.com/cfrBernard/cfrBernard/refs/heads/main/img/Blender-Dark.svg" height="45px" weight="45px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="45px" weight="45px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="45px" weight="45px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45px" weight="45px">
