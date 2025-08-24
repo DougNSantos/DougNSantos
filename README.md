@@ -2,7 +2,7 @@
 
 - 😎 I’m a brazilian student and like many types of technology!
 - 👾 I'm focusing on <strong>Java</strong> and <strong>C#</strong>, working on projects with <strong>Unity</strong>. <br>
-  I also enjoy learning about <em>design, digital art, web development, and game development</em> <br>
+  I also enjoy learning about <em>design, digital art, animation, digital sound, web development, and game development</em> <br>
   — and applying those skills to projects using the Unity game engine.
 - 👍 I’m looking to collaborate in Amazing Projects and Learn from these Great Developers!!!
 
