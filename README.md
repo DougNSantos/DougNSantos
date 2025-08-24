@@ -8,11 +8,8 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DougNSantos)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp; <img src="https://github.com/user-attachments/assets/eb1226ac-cdab-458d-9dfb-17c5edbfc5e7" alt="GonfreecsGIF" width="120">
-
-<br>
-
 <div>
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" height="45px" weight="45px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="45px" weight="45px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="45px" weight="45px">
@@ -21,6 +18,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45px" weight="45px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="45px" weight="45px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="45px" weight="45px">
+  <br><br>
+
+  <img src="https://github.com/user-attachments/assets/eb1226ac-cdab-458d-9dfb-17c5edbfc5e7" alt="GonfreecsGIF" width="120">
+  
 </div>
 
 
